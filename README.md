@@ -22,5 +22,5 @@ The repository consists of the following files:
    - TQ3 about the knapsack problem.
 
 
-2. __cleaned_data_steam_reviews_2021.ipynb:__
-  > A jupyter notebook which provides the cleaning part of the dataset, in thise notebook there is the process of creating the 3 dataset we use in the main notebook: the df_cleaned dataset which is the overall clean dataset; the df_author dataset which is the df_cleaned with only the author-related columns and the df_reviews dataset which is the df_cleaned with only the reviews-related columns
+2. __steam_reviews_2021_Data_Wrangling.ipynb__
+  > A jupyter notebook which provides the cleaning part of the dataset, in thise notebook there is the process of creating the 3 dataset we use in the main notebook: the df_cleaned dataset which is the overall clean dataset; the df_author dataset which is the df_cleaned with only the author-related columns and the df_reviews dataset which is the df_cleaned with only the reviews-related columns. For clearing the data we need to explore those, so a part of the exploration is data is also done here.
