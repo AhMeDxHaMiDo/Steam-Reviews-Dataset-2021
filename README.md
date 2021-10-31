@@ -24,8 +24,8 @@ The repository consists of the following files:
 
 2. __steam_reviews_2021_Data_Wrangling.ipynb__
   > A jupyter notebook which provides the wrangling part of the dataset, in thise notebook there is the process of creating the 3 cleaned dataframes which we use in the main notebook.
-  * df_cleaned: which is the overall cleaned dataset.
-  * df_author: which includes only the author-related attributes. 
-  * df_reviews: which includes only the reviews-related attributes.
+  - df_cleaned: which is the overall cleaned dataset.
+  - df_author: which includes only the author-related attributes. 
+  - df_reviews: which includes only the reviews-related attributes.
 3. __assets Folder:__
    > A folder in which we store the .jpg images for some results about the TQs in the main.ipynb notebook
