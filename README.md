@@ -1,6 +1,6 @@
 # Homework 2 - Steam Reviews 2021
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstore.steampowered.com%2F%3Fl%3Ditalian&psig=AOvVaw0ClVTTIQnmDkAGjCFETx9G&ust=1635780703492000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJj6xJD89PMCFQAAAAAdAAAAABAD)
+![alt text](https://media.amicopc.com/wp-content/uploads/2015/07/18164459/steam.jpg)
 
 The purpose of this project is to imagine that we have been hired as a data scientists from a top Game Development Company. Our team have to perform an analysis of the reviews received for around 300 different applications (games) in Steam during 2021 of around 21 million user.
 
