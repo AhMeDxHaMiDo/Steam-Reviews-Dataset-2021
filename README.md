@@ -2,7 +2,7 @@
 
 ![alt text](https://media.amicopc.com/wp-content/uploads/2015/07/18164459/steam.jpg)
 
-The purpose of this project is to imagine that we have been hired as a data scientists from a top Game Development Company. Our team have to perform an analysis of the reviews received for around 300 different applications (games) in Steam during 2021 of around 21 million user.
+The purpose of this project is to imagine that we have been hired as a data scientists from a top Game Development Company. Our team have to perform an analysis of the reviews received for around 300 different applications (games) in Steam during 2021 of around 21 million reviews. Here's the used [dataset](https://www.kaggle.com/najzeko/steam-reviews-2021)
 
 The repository consists of the following files:
 
@@ -23,7 +23,9 @@ The repository consists of the following files:
 
 
 2. __steam_reviews_2021_Data_Wrangling.ipynb__
-  > A jupyter notebook which provides the cleaning part of the dataset, in thise notebook there is the process of creating the 3 dataset we use in the main notebook: the df_cleaned dataset which is the overall clean dataset; the df_author dataset which is the df_cleaned with only the author-related columns and the df_reviews dataset which is the df_cleaned with only the reviews-related columns. For clearing the data we need to explore those, so a part of the exploration is data is also done here.
-
-3. __/assets:__
-   > A folder in witch we store the .jpg image for some results about the TQ- we upload in the main.ipynb notebook
+  > A jupyter notebook which provides the wrangling part of the dataset, in thise notebook there is the process of creating the 3 cleaned dataframes which we use in the main notebook.
+  * df_cleaned: which is the overall cleaned dataset.
+  * df_author: which includes only the author-related attributes. 
+  * df_reviews: which includes only the reviews-related attributes.
+3. __assets Folder:__
+   > A folder in which we store the .jpg images for some results about the TQs in the main.ipynb notebook
