@@ -2,11 +2,11 @@
 
 ![alt text](https://media.amicopc.com/wp-content/uploads/2015/07/18164459/steam.jpg)
 
-The purpose of this project is to imagine that we have been hired as a data scientists from a top Game Development Company. Our team have to perform an analysis of the reviews received for around 300 different applications (games) in Steam during 2021 of around 21 million reviews. Here's the used [dataset](https://www.kaggle.com/najzeko/steam-reviews-2021)
+The purpose of this project is to imagine that we have been hired as a data scientists from a top Game Development Company. Our team have to perform an analysis of the reviews received for around 300 different applications (games) in Steam during 2021 of around 21 million reviews. Here's the used [dataset](https://www.kaggle.com/najzeko/steam-reviews-2021).
 
 The repository consists of the following files:
 
-1. __main.ipynb__:
+1. __[main.ipynb](https://nbviewer.org/github/AhMeDxHaMiDo/Steam-Reviews-Dataset-2021/blob/master/main.ipynb)__:
    > A Jupyter notebook which provides the solutions to all research questions:
    - [RQ1] After collecting information, the Data Scientists have to know what dataset they are dealing with, so let's start with an Exploratory Data Analysis (EDA). What can you say about our dataset? Please summarize its main characteristics with visual and tabular methods;
    - [RQ2] Let's explore the dataset by finding simple insights into the reviews;
@@ -22,10 +22,10 @@ The repository consists of the following files:
    - TQ3 about the knapsack problem.
 
 
-2. __steam_reviews_2021_Data_Wrangling.ipynb__:
+2. __[steam_reviews_2021_Data_Wrangling.ipynb](https://nbviewer.org/github/AhMeDxHaMiDo/Steam-Reviews-Dataset-2021/blob/master/steam_reviews_2021_Data_Wrangling.ipynb)__:
    > A jupyter notebook which provides the wrangling part of the dataset, in thise notebook there is the process of creating the 3 cleaned dataframes which we use in the main notebook.
    - df_cleaned: which is the overall cleaned dataset.
    - df_author: which includes only the author-related attributes. 
    - df_reviews: which includes only the reviews-related attributes.
-3. __assets Folder:__
+3. __[assets Folder](https://github.com/AhMeDxHaMiDo/Steam-Reviews-Dataset-2021/tree/master/assets):__
    > A folder in which we store the .jpg images for some results about the TQs in the main.ipynb notebook
